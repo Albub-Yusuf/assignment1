@@ -1,0 +1,110 @@
+body{
+
+    font-family: 'Bebas Neue', cursive;
+}
+
+.dummy{
+
+ float: left; 
+ width: 60%; 
+ height:24px;
+
+}
+
+.nav{
+
+    width : 319px;
+    height : 24px;
+    left : 1000px;
+    top : 37px;
+    float: right;
+    margin-right: 15%;
+}
+
+.nav ul li{
+  display: inline;
+  padding: 3%;
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: 'Roboto', sans-serif;
+  
+}
+
+
+.split-half{
+  
+  width: 40%;
+  float:left;
+  margin-left: 1%;
+  padding: 2%;
+
+ 
+
+}
+
+.split-half h1{
+
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-size: 80px;
+    font-weight: 600;
+
+}
+
+
+.dark{
+
+  color : #363958;
+}
+
+.light{
+
+
+  
+  color : #FF8367;
+}
+
+
+.split-half p{
+
+  position: relative;
+  top: -50px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  
+
+}
+
+.split-half img{
+   
+  width: 100%;
+
+}
+
+.content{
+
+  margin-left: 125px; 
+}
+
+#pf{
+  width: 90%;
+  height: 90%;
+  margin-left: -38px;
+  margin-top: 30px;
+
+}
+
+.btn{
+  text-decoration: none;
+  color : white;
+  padding: 20px 40px;
+  background-image: linear-gradient(0deg,#FF8367, #F46060 95.83%);
+  border-radius:6px;
+ 
+
+}
