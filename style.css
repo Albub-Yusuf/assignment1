@@ -40,6 +40,7 @@ body{
   margin-left: 1%;
   padding: 2%;
 
+
  
 
 }
@@ -51,6 +52,17 @@ body{
     font-size: 80px;
     font-weight: 600;
 
+}
+
+.split-half h2{
+
+  font-family: 'Bebas Neue';
+  font-style: normal;
+  font-size: 48px;
+  line-height: 48px;
+  color: #363958;
+  font-weight: 600;
+  padding-bottom: 60px;
 }
 
 
@@ -107,4 +119,18 @@ body{
   border-radius:6px;
  
 
+}
+
+#about-pic{
+
+  
+  margin-top: -50px;
+
+
+}
+
+#about-pic img{
+
+  width: 80%;
+  margin-left: 100px;
 }
