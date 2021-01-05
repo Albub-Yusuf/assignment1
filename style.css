@@ -134,3 +134,74 @@ body{
   width: 80%;
   margin-left: 100px;
 }
+
+
+
+section{
+
+  height: 700px;
+}
+.latest-work{
+
+  width: 100%;
+  background-color:#E5E5E5; 
+  text-align: center;
+}
+
+h2{
+
+  font-family: 'Bebas Neue';
+  font-style: normal;
+  font-size: 48px;
+  line-height: 48px;
+  font-weight: 600;
+}
+
+.work{
+
+  position: relative;
+  top:100px;
+  width: 80%;
+  height:50px;
+  margin: auto;
+  
+
+}
+
+.portfolio{
+
+  position: relative;
+  top: 90px;
+  width: 80%;
+  height:500px;
+  margin: auto;
+  
+
+}
+
+.card{
+
+    position: relative;
+    top:10%;
+    left:2.5%;
+    width: 26%;
+    float: left;
+    margin-left: 0.3%;
+    padding : 2%;
+    margin-right: 2%;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px rgb(67, 68, 68);
+
+}
+
+.card-image {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.card-container {
+  padding: 2px 16px;
+  background-color: #fff;
+  border-radius: 5px;
+}
