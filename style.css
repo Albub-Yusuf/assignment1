@@ -205,3 +205,115 @@ h2{
   background-color: #fff;
   border-radius: 5px;
 }
+
+.subscriptions{
+
+  background-color: #fff;
+
+}
+
+.rectangle{
+
+  position: relative;
+  width : 906px;
+  height: 225px;
+  margin: 0 auto;
+  top: 22%;
+  background-image: url("shapes/rec.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  color: #fff;
+
+
+}
+
+.query-title{
+
+  position: relative;
+  top: 30%;
+  width: 40%;
+  height: 100px;
+  display: inline-block;
+  text-align: center;
+}
+
+.query-chat{
+
+    position: relative;
+    top: 35%;
+    width: 40%;
+    height: 100px;
+    display: inline-block; 
+    float: right;
+    
+}
+#chat{
+
+    position: relative;
+    top: 25%;
+    left: 45%;
+
+}
+
+#title{
+
+    position: relative;
+    top: 10%;
+    left: 9%;
+    font-family: 'Bebas Neue', cursive;
+    color: #fff;
+    font-size: 64px;
+    font-weight: 700;
+
+}
+
+.social{
+
+    width: 50%;
+    height: 150px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    top:30%;
+
+}
+
+.social-title{
+
+    width: 100%;
+    font-family: 'Bebas Neue';
+    font-weight: 500;
+    font-style: 24px;
+    color: dimgrey;
+}
+
+.social-mail{
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    color: #363958;
+}
+
+.social-icon{
+    
+    width: 38%;
+    min-height: 50px;
+    margin: 0 auto;
+}
+
+.sc1, .sc2, .sc3{
+
+  display: inline-block;
+  padding: 2%;
+}
+
+.sc1 img, .sc2 img, .sc3 img{
+
+   width: 30px;
+   height: 30px; 
+
+}
+
