@@ -1,6 +1,7 @@
 body{
 
     font-family: 'Bebas Neue', cursive;
+    margin: 0;
 }
 
 .dummy{
@@ -317,3 +318,85 @@ h2{
 
 }
 
+.skills{
+
+    background-color: #E5E5E5;
+}
+
+.skill-title{
+
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    top: 80px;
+  
+}
+
+.skill-desc{
+
+  width:40%;
+  height: 120px;
+  margin: 0 auto;
+  position: relative;
+  top:70px;
+  padding: 2%;
+}
+
+.sk1{
+
+  position: relative;
+  width: 100px;
+  height: 100px;
+  float:left;
+  margin-left: 5%;
+  top:15%;
+  left:25%;
+  border-radius: 50%;
+  
+
+}
+
+.sk1 img{
+
+  width: 100%;
+
+
+}
+
+
+
+#wrapper{
+  position: relative;
+  right:36%;
+  padding-left: 11%;
+ 
+}
+
+.service{
+
+  margin-top: 80px;
+  width: 100%;
+  
+
+}
+
+#service1{
+
+   border-radius: 10px;
+   width: 85%;
+   margin-left: 15%;
+   text-align: right;
+   box-shadow: 10px 10px 40px gray;
+   padding: 2%;
+}
+
+#service2{
+
+  border-radius: 10px;
+  width: 85%;
+  margin-left: 8%;
+  text-align: left;
+  box-shadow: 10px 10px 40px gray;
+  padding: 2%;
+}
