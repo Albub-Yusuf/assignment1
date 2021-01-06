@@ -2,7 +2,14 @@ body{
 
     font-family: 'Bebas Neue', cursive;
     margin: 0;
+    text-decoration: none;
+
 }
+
+a:link, a:visited , a:hover , a:active {
+   color:#3C3C3C;
+}
+
 
 .dummy{
 
@@ -20,6 +27,7 @@ body{
     top : 37px;
     float: right;
     margin-right: 15%;
+    text-decoration: none;
 }
 
 .nav ul li{
@@ -30,6 +38,7 @@ body{
   font-size: 16px;
   line-height: 24px;
   font-family: 'Roboto', sans-serif;
+  text-decoration: none;
   
 }
 
@@ -145,7 +154,7 @@ section{
 .latest-work{
 
   width: 100%;
-  background-color:#E5E5E5; 
+  background-color:#F8F9FC; 
   text-align: center;
 }
 
@@ -205,6 +214,28 @@ h2{
   padding: 2px 16px;
   background-color: #fff;
   border-radius: 5px;
+
+}
+
+.card-container h2{
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #363958;
+    text-align: left;
+}
+
+.card-container p{
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #6C6C6C;
+    text-align: left;
+
 }
 
 .subscriptions{
@@ -320,7 +351,7 @@ h2{
 
 .skills{
 
-    background-color: #E5E5E5;
+    background-color: #F8F9FC;
 }
 
 .skill-title{
@@ -399,4 +430,13 @@ h2{
   text-align: left;
   box-shadow: 10px 10px 40px gray;
   padding: 2%;
+}
+
+footer p{
+
+  font-family: 'Roboto';
+  font-size: 16px;
+  color:dimgray;
+  text-align: center;
+
 }
